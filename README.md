@@ -16,6 +16,7 @@ Let’s take a look at what a user story written from the perspective of a hirin
 
 ![portfolio1pic2](https://user-images.githubusercontent.com/73507926/124726239-92618200-dedb-11eb-9569-6721c4ff1b3a.png)
 
+![portfolio1pic](https://user-images.githubusercontent.com/73507926/124726354-ab6a3300-dedb-11eb-8ba7-66cff01fdebd.png)
 
 
 
