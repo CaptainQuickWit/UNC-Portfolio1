@@ -110,6 +110,21 @@ body {
     
   }
 
+  #project-1 {
+
+    width: 1000px;
+    height: 500px;
+
+  }
+
+  .block {
+    display: block;
+  }
+  
+  .blockEle {
+    display: inline-block;
+    margin-right: 2%;
+  }
   .portrait {
     width: 250px;
     height: 230px;
