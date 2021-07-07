@@ -117,10 +117,15 @@ body {
 
   }
 
+  .footerSpace {
+    display: inline-block;
+    margin-left: 2%;
+  }
+
   .block {
     display: block;
   }
-  
+
   .blockEle {
     display: inline-block;
     margin-right: 2%;
@@ -130,17 +135,35 @@ body {
     height: 230px;
   }
 
+  li {
+    margin: 10px;
+  }
   
 
   @media screen and (max-width: 768px) {
-    header, main, .container {
+      img, header, main, .container, section  {
       flex-direction: column;
     }
+
+    * img {
+
+      width: 250px;
+    height: 250px;
+
+    }
     
+    .project-main {
+
+      width: 250px;
+      height: 250px;
+
+    }
     section {
       padding-right: 0;
     }
   
-    
+    footer {
+      display:none;
+    }
   }
   
